@@ -1,0 +1,56 @@
+What is file handling in Python?
+A. Managing folders
+B. Reading and writing file
+C. Controlling system files
+D. Handling exceptions in files
+ANSWER: B
+
+Which method is used to read the entire content of a file as a string?
+A. read()
+B. read_all()
+C. read_full()
+D. readfile()
+ANSWER: A
+
+How can you read the first five characters of a file in Python?
+A. file.read(5)
+B. read(file, 5)
+C. read_first(file, 5)
+D. file.read_first(5)
+ANSWER: A
+
+What will be the output of the following Python code?
+A. True
+B. False
+C. None
+D. Error
+ANSWER: A
+
+To read the next line of the file from a file object infile, we use ____________
+A. infile.read(2)
+B. infile.read()
+C. infile.readline()
+D. infile.readlines()
+ANSWER: C
+
+Suppose d = {“john”:40, “peter”:45}, what happens when we try to retrieve a value using the expression d[“susan”]?
+A. Since “susan” is not a value in the set, Python raises a KeyError exception
+B. It is executed fine and no exception is raised, and it returns None
+C. Since “susan” is not a key in the set, Python raises a KeyError exception
+D. Since “susan” is not a key in the set, Python raises a syntax error
+ANSWER: C
+
+Which of the statements about dictionary values if false?
+A. More than one key can have the same value
+B. Values of a dictionary must be unique
+C. The values of the dictionary can be accessed as dict[key]
+D. Values of a dictionary can be a mixture of letters and numbers
+ANSWER: B
+
+What happens if you open a file in Python using the ‘x’ mode, and the file already exists?
+A. It raises a FileExistsError
+B. It overwrites the existing file
+C. It appends data to the existing file
+D. It raises a FileNotFoundError
+ANSWER: A
+
