@@ -15,7 +15,7 @@ public class SubtractTwoNumbers {
 
         // Display result
         System.out.println("The difference is: " + difference);
-
+        System.out.println("Made some chnages");
         input.close(); // Close the Scanner
     }
 }
